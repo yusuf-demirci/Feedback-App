@@ -1,19 +1,7 @@
-<<<<<<< HEAD
 # Feedback-App
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 - Live Site URL on Netlify: https://thirsty-goodall-6d2695.netlify.app/
-=======
-- Live Site URL on Netlify: [https://thirsty-goodall-6d2695.netlify.app/][https://thirsty-goodall-6d2695.netlify.app/] 
->>>>>>> parent of fe426f3 (Update README.md)
-=======
-- Live Site URL on Netlify: [https://thirsty-goodall-6d2695.netlify.app/][https://thirsty-goodall-6d2695.netlify.app/] 
->>>>>>> parent of fe426f3 (Update README.md)
 
-=======
->>>>>>> parent of 82a01f5 (Update README.md)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
