@@ -2,8 +2,12 @@
 # Feedback-App
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 - Live Site URL on Netlify: https://thirsty-goodall-6d2695.netlify.app/
+=======
+- Live Site URL on Netlify: [https://thirsty-goodall-6d2695.netlify.app/][https://thirsty-goodall-6d2695.netlify.app/] 
+>>>>>>> parent of fe426f3 (Update README.md)
 =======
 - Live Site URL on Netlify: [https://thirsty-goodall-6d2695.netlify.app/][https://thirsty-goodall-6d2695.netlify.app/] 
 >>>>>>> parent of fe426f3 (Update README.md)
