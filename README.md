@@ -2,6 +2,8 @@
 
 - Live Site URL on Netlify: https://thirsty-goodall-6d2695.netlify.app/
 
+![./screenshot.png](./src/img/screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
