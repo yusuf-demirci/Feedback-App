@@ -25,8 +25,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox & Grid
 - Mobile-first workflow
-- React.js
-- Material UI
+- React.js / Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
