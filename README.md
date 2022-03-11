@@ -1,10 +1,32 @@
 # Feedback-App
 
-- Live Site URL on Netlify: https://thirsty-goodall-6d2695.netlify.app/
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add, edit and delete reviews
+- View about page
+
+### Screenshot
 
 ![./screenshot.png](./src/img/screenshot.png)
 
-# Getting Started with Create React App
+### Links
+
+- Live Site URL on Netlify: https://thirsty-goodall-6d2695.netlify.app/
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox & Grid
+- Mobile-first workflow
+- React.js
+- Material UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
